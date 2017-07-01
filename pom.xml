@@ -6,7 +6,7 @@
   <name>core-interfaces</name>
   <description>Interfaces and utilities for all Nanotek models</description>
   
-  <properties>
+  	<properties>
 		<org.junit.version>4.9</org.junit.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<maven.compiler.source>1.8</maven.compiler.source>
